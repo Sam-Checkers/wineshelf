@@ -8,5 +8,5 @@ const Register = () => {
     <button onClick={() => loginWithRedirect({ screen_hint: 'signup' })}>Register</button>
   );
 };
-
+//
 export default Register;
